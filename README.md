@@ -1,4 +1,4 @@
-# Best_Chocolate_Hr_Analysis
+# Awesome_Chocolate_Hr_Analysis
 This is exciting and interesting HR Analysis project Which I developed on POWER BI.
 
 ### Overview :
